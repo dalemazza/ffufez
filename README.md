@@ -55,6 +55,13 @@ Scan will be saved here /home/kali
          \ \_\   \ \_\  \ \____/  \ \_\       
           \/_/    \/_/   \/___/    \/_/       
 ```
+To view the ffuf report browse to it with a web browser, This is the cleanest output to read ffuf scans
+- Open web browser
+- Paste the following into the URL bar
+- file:///home
+- Browse to the ffuf report and open it
+
+
 
 ## Issues
 

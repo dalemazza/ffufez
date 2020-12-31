@@ -34,7 +34,7 @@ If you want to run this script globally you can add it your $PATH
 ```
 ./ffufez
 ~~ffufez~~
-Input URL (URL/FUZZ): 10.10.10.10/FUZZ
+Input URL (URL/FUZZ): http://10.10.10.10/FUZZ
 ~~Wordlists~~
 Select Worldlist 1-2: 
 1. raft-small-directories
